@@ -96,7 +96,7 @@ with tab2:
 
     if decision == "Repair":
         st.success("✔ Repair request raised with nearest verified service partner")
-        st.caption("Expected turnaround: 3–5 working days")
+        st.caption("Expected turnaround: 1-2 hrs")
 
     elif decision == "Redesign":
         st.info("🎨 Redesign option selected (polish / upholstery / finish update)")
