@@ -13,17 +13,17 @@ import numpy as np
 
 # ------------------ CONFIG ------------------
 st.set_page_config(
-    page_title="Exwardo | Asset Wellness Platform",
+    page_title="Exwarrdo | Asset Wellness Platform",
     layout="centered"
 )
 
 # ------------------ HEADER ------------------
-st.title("🪑 Exwardo")
+st.title("🪑 Exwarrdo")
 st.subheader("AI-powered Furniture Asset Wellness Platform")
 
 st.markdown(
     """
-    Exwardo transforms furniture from a **disposable expense** into a **managed, health-tracked asset**
+    Exwarrdo transforms furniture from a **disposable expense** into a **managed, health-tracked asset**
     through AI diagnostics and lifecycle services.
     """
 )
@@ -77,7 +77,7 @@ with tab2:
     st.header("Service: Managed Furniture Lifecycle")
 
     st.markdown("""
-    **Exwardo Services**
+    **Exwarrdo Services**
     - Subscription-based extended warranty (post manufacturer warranty)
     - Predictive maintenance coordination
     - Repair, refurbishment, and redesign support
@@ -118,4 +118,4 @@ with tab2:
 
 # ------------------ FOOTER ------------------
 st.divider()
-st.caption("Exwardo | PropTech × Circular Economy | Pilot MVP")
+st.caption("Exwarrdo | PropTech × Circular Economy | Pilot MVP")
